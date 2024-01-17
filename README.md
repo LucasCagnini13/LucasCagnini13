@@ -1,8 +1,8 @@
 ### Olá, sou Lucas Gabriel Cagnini, Desenvolvedor Back End 👋
 
-<h2>
+<h1>
   Sou um apaixonado por Tecnologia e inovação, atualmente atuo como programador na equipe  de robótica BenderMinds,  tendo participado de torneios  estaduais e nacionais. Tenho conhecimento em Java e quero me aprimorar nos frameworks Spring e Quarkus.
-</h2>
+</h1>
 
 <!--
 **LucasCagnini13/LucasCagnini13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
