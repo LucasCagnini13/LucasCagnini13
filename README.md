@@ -1,20 +1,18 @@
-### Olá, sou Lucas Gabriel Cagnini, Desenvolvedor Back End 👋
 
-<h1>
+<div align="center">
+
+  ### Olá, sou Lucas Gabriel Cagnini, Desenvolvedor Back End 👋
+
+
+
+<h5>
   Sou um apaixonado por Tecnologia e inovação, atualmente atuo como programador na equipe  de robótica BenderMinds,  tendo participado de torneios  estaduais e nacionais. Tenho conhecimento em Java e quero me aprimorar nos frameworks Spring e Quarkus.
-</h1>
+</h5>
 
-<!--
-**LucasCagnini13/LucasCagnini13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lucas Cagnini GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCagnini13&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+#### Tecnologias que eu uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Rafa-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img align="center" alt="Rafa-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"><img align="center" alt="Rafa-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img align="center" alt="Rafa-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+</div>
