@@ -8,7 +8,7 @@
 
 
 <h5>
-  Sou um apaixonado por Tecnologia e inovação, atualmente atuo como programador na equipe  de robótica BenderMinds,  tendo participado de torneios  estaduais e nacionais. Tenho conhecimento em Java e quero me aprimorar nos frameworks Spring e Quarkus.
+  Sou um apaixonado por Tecnologia e inovação, atualmente atuo como professor de robótica na Sudotec, fui programador na equipe de robótica BenderMinds, tendo participado de torneios estaduais e nacionais. Tenho conhecimento em Java e quero me aprimorar nos frameworks Spring e Quarkus.
 </h5>
 
    <a href="https://www.linkedin.com/in/lucas-gabriel-cagnini-4aaba4225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
