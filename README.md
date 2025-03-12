@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ### Olá, sou Lucas Gabriel Cagnini, Desenvolvedor Back End 👋
+  ### Olá, sou Lucas Gabriel Cagnini, Desenvolvedor Full Satck 👋
 <div> 
   
 </div>
